@@ -26,4 +26,3 @@ print(ay)
 # print(ay1)
 
 # print(arr_2)
-#aftab

@@ -24,4 +24,6 @@ print(ay)
 
 # ay1 = arr_2.flatten()
 # print(ay1)
+
 # print(arr_2)
+

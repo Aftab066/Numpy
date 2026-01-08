@@ -17,4 +17,11 @@ arr = np.array([1,2,3,4,5,6,7,8])
 
 # Note: Both np.insert and np.append return a new array and do not modify the original array.
 
+#concatenate Two Numpy Arrays
+
+# arr2 = np.array([9,10,11,12])
+# concatenated_arr = np.concatenate((arr, arr2))
+# print("First Array:", arr)
+# print("Second Array:", arr2)
+# print("Concatenated Array:", concatenated_arr)
 

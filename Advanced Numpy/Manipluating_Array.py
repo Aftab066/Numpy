@@ -27,8 +27,10 @@ arr = np.array([1,2,3,4,5,6,7,8])
 
 #delete Element from Numpy Array
 
-arr_deleted = np.delete(arr, 2) # 2 is the index position to be deleted
-print("Original Array:", arr)
-print("Array after Deletion:", arr_deleted)
+# arr_deleted = np.delete(arr, 2) # 2 is the index position to be deleted
+# print("Original Array:", arr)
+# print("Array after Deletion:", arr_deleted)
+
+
 
 
